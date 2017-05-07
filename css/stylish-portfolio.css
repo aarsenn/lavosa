@@ -43,12 +43,13 @@ body {
 
 /* Custom Button Styles */
 
-.btn-dark {
-    font-size: 30px;
-    margin-top: 96px;
+a.btn-dark {
+    font-size: 20px !important;
+    margin-top: 70px;
+    opacity: 0.8;
+    border: 3px solid;
     border-radius: 0;
-    color: #fff;
-    background-color: rgba(0,0,0,0.4);
+    line-height: 47px !important;
 }
 
 .btn-dark:hover,
