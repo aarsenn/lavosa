@@ -267,7 +267,7 @@ footer {
 
 .bubna-top, .bubna-bottom {
     display: -webkit-flex; display: flex;
-    flex-direction: column;
+    -webkit-flex-direction: column; flex-direction: column;
     -webkit-align-items: center; align-items: center;
     margin: 20px;
 }
@@ -393,7 +393,7 @@ p.lead {
     -webkit-justify-content: center; justify-content: center;
     width: 100%;
     height: 100%;
-    flex-direction: column;
+    -webkit-flex-direction: column; flex-direction: column;
 }
 
 
