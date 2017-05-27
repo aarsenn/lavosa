@@ -412,3 +412,13 @@ p.lead {
 .full-width {
     width: 100%;
 }
+
+#map p {
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-weight: 600;
+    color: rgb(130,1,1);
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+}
