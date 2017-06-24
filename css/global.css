@@ -422,3 +422,8 @@ p.lead {
     color: rgb(130,1,1);
     text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
 }
+
+.price {
+    text-align: center;
+    font-size: 16px;
+}
