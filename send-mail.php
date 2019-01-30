@@ -9,5 +9,6 @@ mail('lovosa20@seznam.cz', $subject, $text);
 mail('satusfeksion@gmail.com', $subject, $text);
 mail('vmblogistic@gmail.com', $subject, $text);
 
+
 echo ('{ "status": 200 }');
 ?> 
